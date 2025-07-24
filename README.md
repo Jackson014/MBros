@@ -8,3 +8,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black")>
 <br>
 <p><i>Modelo notebook &#x1F4BB;</i></p>
+<img src="https://github.com/Jackson014/MBros/blob/main/img/Captura%20de%20tela%202025-07-24%20132129.png">
